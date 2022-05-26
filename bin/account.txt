@@ -1,0 +1,6 @@
+1|hai|123|admin|
+2|hai1|123|admin|
+3|hai2|123|Nhân viên|
+4|hai3|123|nhân viên|
+5|hai4|123|nhân viên|
+6|hai5|123|nhân viên|

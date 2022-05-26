@@ -1,0 +1,10 @@
+1|Trần Ngọc Hải|22|0|Đồng Nai|0987654321|101|
+2|Nguyễn Minh Khai|40|0|Vũng Tàu|0987654321|101|
+3|An Dương Vương|22|1999|TPHCM|0987654321|101|
+4|Nguyễn Trãi|22|1970|Bình Dương|0987654321|101|
+5|Nguyễn Văn Cừ|26|0|Bình Thuận|0987654321|101|
+6|Trần Phu|42|0|Long An|0987654321|101|
+7|hải trần|21|nam|132 hoa hung|0987654321|203|
+8|Trần Tuấn|18|nữ|123 CMT8|090999899|501|
+9|nguyễn văn a|-18179|nam|22i22|0987656789|304|
+10|nguyex thị BBBBB|1820|nam|0982|098722|304|
